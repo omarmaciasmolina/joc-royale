@@ -2,7 +2,7 @@ const { Pool } = require("pg");
 
 // Configuración de PostgreSQL
 const pool = new Pool({
-    user: "postgres",
+    user: "omar",
     host: "localhost",
     database: "joc_royale",
     password: "1dostres4",
