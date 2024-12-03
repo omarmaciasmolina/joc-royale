@@ -1,7 +1,7 @@
 # Battle Royale App
-Una aplicación para juegos en la vida real tipo Battle Royale.
-## Características
-- Registro de jugadores
-- Asignación de objetivos
-- Eliminación en tiempo real
+Una aplicació per jugar a la vida real tipus Battle Royale.
+## Característiques
+- Registre de jugadors
+- Asignació de objetius
+- Eliminació en temps real
 
